@@ -1,1 +1,1 @@
-# ensembling
+Class project to learn about ensembling and combining models to find a good baseball player within budget. The goal is to predict IP and RA9 for the 2013 season, Moneyball-style...although I never got around to watching the movie. Can't take credit for the starter code, can take credit for about half of the improvements.
